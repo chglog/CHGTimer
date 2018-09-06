@@ -1,5 +1,5 @@
 # CHGTimer
-简单易用的GCD定时器
+简单易用的GCD定时器   导入CHGTimer头文件即可
 
 # 提供两种方式创建
 
